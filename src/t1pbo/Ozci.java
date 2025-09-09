@@ -30,7 +30,7 @@ public class Ozci extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Ozci");
+        jLabel1.setText("Nama Saya Imam");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -39,7 +39,7 @@ public class Ozci extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGap(140, 140, 140)
                 .addComponent(jLabel1)
-                .addContainerGap(234, Short.MAX_VALUE))
+                .addContainerGap(157, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
